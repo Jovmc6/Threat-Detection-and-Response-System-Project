@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon May  4 10:44:05 2026
+# Process ID: 23820
+# Current directory: C:/Xilinx/ECE_520/Sandbox/Threat_detection_Final_Project/Threat_detection_Final_Project.runs/impl_1
+# Command line: vivado.exe -log LED.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source LED.tcl -notrace
+# Log file: C:/Xilinx/ECE_520/Sandbox/Threat_detection_Final_Project/Threat_detection_Final_Project.runs/impl_1/LED.vdi
+# Journal file: C:/Xilinx/ECE_520/Sandbox/Threat_detection_Final_Project/Threat_detection_Final_Project.runs/impl_1\vivado.jou
+# Running On: Jovany, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 12, Host memory: 16573 MB
+#-----------------------------------------------------------
+source LED.tcl -notrace
